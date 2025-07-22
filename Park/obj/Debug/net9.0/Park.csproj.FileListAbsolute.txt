@@ -1,0 +1,14 @@
+C:\Users\Note\OneDrive\Área de Trabalho\Desafio-estacionamento\estacionamento\Park\bin\Debug\net9.0\Park.exe
+C:\Users\Note\OneDrive\Área de Trabalho\Desafio-estacionamento\estacionamento\Park\bin\Debug\net9.0\Park.deps.json
+C:\Users\Note\OneDrive\Área de Trabalho\Desafio-estacionamento\estacionamento\Park\bin\Debug\net9.0\Park.runtimeconfig.json
+C:\Users\Note\OneDrive\Área de Trabalho\Desafio-estacionamento\estacionamento\Park\bin\Debug\net9.0\Park.dll
+C:\Users\Note\OneDrive\Área de Trabalho\Desafio-estacionamento\estacionamento\Park\bin\Debug\net9.0\Park.pdb
+C:\Users\Note\OneDrive\Área de Trabalho\Desafio-estacionamento\estacionamento\Park\obj\Debug\net9.0\Park.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\OneDrive\Área de Trabalho\Desafio-estacionamento\estacionamento\Park\obj\Debug\net9.0\Park.AssemblyInfoInputs.cache
+C:\Users\Note\OneDrive\Área de Trabalho\Desafio-estacionamento\estacionamento\Park\obj\Debug\net9.0\Park.AssemblyInfo.cs
+C:\Users\Note\OneDrive\Área de Trabalho\Desafio-estacionamento\estacionamento\Park\obj\Debug\net9.0\Park.csproj.CoreCompileInputs.cache
+C:\Users\Note\OneDrive\Área de Trabalho\Desafio-estacionamento\estacionamento\Park\obj\Debug\net9.0\Park.dll
+C:\Users\Note\OneDrive\Área de Trabalho\Desafio-estacionamento\estacionamento\Park\obj\Debug\net9.0\refint\Park.dll
+C:\Users\Note\OneDrive\Área de Trabalho\Desafio-estacionamento\estacionamento\Park\obj\Debug\net9.0\Park.pdb
+C:\Users\Note\OneDrive\Área de Trabalho\Desafio-estacionamento\estacionamento\Park\obj\Debug\net9.0\Park.genruntimeconfig.cache
+C:\Users\Note\OneDrive\Área de Trabalho\Desafio-estacionamento\estacionamento\Park\obj\Debug\net9.0\ref\Park.dll
